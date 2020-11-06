@@ -1,2 +1,5 @@
-# sw2020
-경북대학교 전자공학부 SW중심대학 2020년 참여학생 평가
+# 평가용 repositories
+1. [summary.md](summary.md)
+2. [handoff simulation](github.com/yh08037/handoff-simulation)
+3. [gnb AI 교육 프로젝트](github.com/yh08037/gnbai20201)
+4. [지능시스템개론](github.com/yh08037/Introduction-to-Intelligent-Systems)
