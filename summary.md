@@ -30,11 +30,9 @@ Github의 markdown이 latex 문법을 지원하지 않는 관계로, README.md�
 ## 기타 : 동아리 활동
 - 전자공학부 소프트웨어 동아리 GNB 2020년 1학기 인공지능 스터디
 
-# 4. [ABR-Lab-Summer-Project](https://github.com/yh08037/ABR-Lab-Summer-Project)
+
+# 4. [ABR_mentoring](https://github.com/yh08037/ABR_mentoring)
 ## 요약문
-2019년 여름학기 ABR 연구실의 학부연수생 활동으로 한달간 대학원생분들의 이미지 분류 세미나를 수강하고, 이에 대해 진행한 개인 프로젝트 과제의 결과물입니다.
-2019년 초 학부연수생을 시작하여 인공지능을 공부하고 있을 당시에는 tensorflow 1으로 배우고 실습을 진행하였었습니다.
-간단한 모델을 만들기 위해서도 코드가 매우 길고 복잡했었는데, tensorflow 2가 베타 버전으로 공개되었다는 소식을 듣고 이 과제를 수행하는데 활용해보았습니다.
 
 
 ## 연구실연수생형
@@ -42,21 +40,35 @@ Github의 markdown이 latex 문법을 지원하지 않는 관계로, README.md�
 - 참여연구실 이민호 교수님, ABR 연구실
 
 
-# 5. [KNU-DeepLearning](https://github.com/yh08037/KNU-DeepLearning)
+# 5. [ABR-Lab-Summer-Project](https://github.com/yh08037/ABR-Lab-Summer-Project)
 ## 요약문
+2019년 여름학기 ABR 연구실의 학부연수생 활동으로 한달간 대학원생분들의 이미지 분류 세미나를 수강하고, 이에 대해 진행한 개인 프로젝트 과제의 결과물입니다.
+2019년 초 학부연수생을 시작하여 인공지능을 공부하고 있을 당시에는 tensorflow 1으로 배우고 실습을 진행하였었습니다.
+간단한 모델을 만들기 위해서도 코드가 매우 길고 복잡했었는데, tensorflow 2가 베타 버전으로 공개되었다는 소식을 듣고 이 과제를 수행하는데 활용해보았습니다.
+
+## 연구실연수생형
+- 연수기간 2019.3-2020.6
+- 참여연구실 이민호 교수님, ABR 연구실
+
+
+# 6. [KNU-DeepLearning](https://github.com/yh08037/KNU-DeepLearning)
+## 요약문
+
 ## 기타
 
-# 6. [JAVA](https://github.com/yh08037/JAVA)
+
+# 7. [JAVA](https://github.com/yh08037/JAVA)
 ## 요약문
 
 ## 자율과제형
 
 
-# 7. [JavaProgramming](https://github.com/yh08037/JavaProgramming)
+# 8. [JavaProgramming](https://github.com/yh08037/JavaProgramming)
 ## 요약문
+장길진 교수님의 자바프로그래밍 강의를 들으면서 작성한 실습과 과제의 코드를 저장해놓은 레포지터리입니다.
 
 ## 교과목형
-- COMP217
+- COMP217 자바프로그래밍 / 2019년 1학기 / 장길진 교수님
 
 # 9. HelloKotlin
 ## 요약문
