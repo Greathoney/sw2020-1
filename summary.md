@@ -1,28 +1,66 @@
-# 1. handoff-simulation
+# 1. [handoff-simulation](https://github.com/yh08037/handoff-simulation)
 ## 요약문
-
-(예시) 본 github page 는 2020년 전자공학부 소프트웨어 연계부전공 참여학생들에게 장학금을 지급하기 위한 
-평가 방법을 자세히 설명하고, 제출물 및 평가결과를 공개하기 위한 repository 입니다.
+조호신 교수님의 이동통신 연구실에서의 학부연수생 활동으로 제작한 시뮬레이션 프로그램입니다.
+셀룰러 통신에서 각 기지국은 서비스 영역을 가지고 있으며 이를 셀이라고 합니다.
+핸드오프란 이동 단말이 기존의 셀에서 인접한 다른 셀로 건너갈 때 기존 기지국과의 연결을 다음 기지국으로 넘기는 것을 말합니다.
+육각형 셀 환경에서 이동 단말에서 발생한 호가 지속되는 동안 겪게되는 핸드오프의 평균 횟수를 구하고 분석하는 시뮬레이션을
+C언어를 통해 구현하고 Python을 통해 결과를 시각화하였습니다.
 
 ## 연구실연수생형
 - 연수기간 2020.7~
 - 참여연구실 조호신 교수님, 이동통신 연구실
 
-# 2. gnbai20201
-## 요약문
 
-## 기타 : 동아리 활동
-
-# 3. Introduction-to-Intelligent-Systems
+# 2. [Introduction-to-Intelligent-Systems](https://github.com/yh08037/Introduction-to-Intelligent-Systems)
 ## 요약문
+2019년 여름학기 해외초빙교수로 강의하신 전김재윤 교수님의 지능시스템개론 과목 수업을 듣고 이론과 코딩 실습 결과물을 정리하였습니다.
+Github의 markdown이 latex 문법을 지원하지 않는 관계로, README.md에서 수식 이미지는 교수님의 강의자료의 수식을 캡쳐하여 사용하였습니다.
+각 주제별로 가장 첫 줄에 Jupyter Notebook 파일의 링크를 배치해두어 이론 수식과 제가 직접 작성한 코드를 함께 확안할 수 있도록 구성하였습니다.
 
 ## 교과목형
 - ELEC464 지능시스템개론 / 2019년 여름학기 / 전김재윤 교수님
 
 
+# 3. [gnbai20201](https://github.com/yh08037/gnbai20201)
+## 요약문
+위에서 정리한 지능시스템개론 강의의 내용을 바탕으로 2020년 1학기에 전자공학부 소프트웨어 동아리 GNB에서 인공지능 스터디를 진행하였습니다.
+기계학습에 대해 이론을 먼저 소개하고, numpy로 이론을 적용해 코딩해본 후 tensorflow를 활용해 코딩해보는 방식으로 스터디를 구성하였습니다.
+제가 처음 인공지능 분야를 공부할 때 기본기 없이 tensorflow의 문법과 코드만 외우게 되어 몇달이 지나도 결국에는 무엇을 만들고 있는지 조차 잘 이해하고 있지 않다는 사실을 깨달았었습니다. 따라서 특정 프레임워크의 문법 대신 이론과 개념에 중심을 두어 강의하였고, 스터디원들의 만족도도 높았습니다.
+
+## 기타 : 동아리 활동
+- 전자공학부 소프트웨어 동아리 GNB 2020년 1학기 인공지능 스터디
+
+# 4. [ABR-Lab-Summer-Project](https://github.com/yh08037/ABR-Lab-Summer-Project)
+## 요약문
+2019년 여름학기 ABR 연구실의 학부연수생 활동으로 한달간 대학원생분들의 이미지 분류 세미나를 수강하고, 이에 대해 진행한 개인 프로젝트 과제의 결과물입니다.
+2019년 초 학부연수생을 시작하여 인공지능을 공부하고 있을 당시에는 tensorflow 1으로 배우고 실습을 진행하였었습니다.
+간단한 모델을 만들기 위해서도 코드가 매우 길고 복잡했었는데, tensorflow 2가 베타 버전으로 공개되었다는 소식을 듣고 이 과제를 수행하는데 활용해보았습니다.
+
+
+## 연구실연수생형
+- 연수기간 2019.3-2020.6
+- 참여연구실 이민호 교수님, ABR 연구실
+
+
+# 5. [KNU-DeepLearning](https://github.com/yh08037/KNU-DeepLearning)
+## 요약문
+## 기타
+
+# 6. [JAVA](https://github.com/yh08037/JAVA)
+## 요약문
+
+## 자율과제형
+
+
+# 7. [JavaProgramming](https://github.com/yh08037/JavaProgramming)
+## 요약문
+
+## 교과목형
+- COMP217
+
 # 9. HelloKotlin
 ## 요약문
-[Kotlin 공식 가이드](https://kotlinlang.org/docs/reference/basic-syntax.html)
+[Kotlin 공식 가이드](https://kotlinlang.org/docs/reference/basic-syntax.html)를 기반으로 영어를 해석하며 Kotlin의 기본 문법와 특징에 대해 정리하였습니다.
 
 ## 자율과제형
 
