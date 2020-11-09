@@ -71,7 +71,19 @@ Github의 markdown이 latex 문법을 지원하지 않는 관계로, README.md�
 - EECS201 C프로그래밍과실습 / 2018년 2학기 / 박은진 교수님
 
 
-# 8. [JAVA](https://github.com/yh08037/JAVA)
+# 8. [Cdaily](https://github.com/yh08037/Cdaily)
+## 요약문
+C프로그래밍과실습 강의와 앞의 'C작점' 스터디 활동과 동시에 프로그래밍 문제 풀이 연습을 하고자
+하루에 한 문제씩 코드를 작성하고 공유한 레포지터리입니다.
+이 레포지터리에 올린 문제들 중 몇몇은 프로그래밍 연습 사이트에서 볼 수 있는 문제이지만, 
+그 외의 문제들은 제가 다른 과목을 공부하면서 든 호기심을 해결하기 위함이거나,
+입시 수학 문제들을 프로그래밍으로 해결해보자는 아이디어로 만들어졌습니다.
+
+## 자율과제형
+- 과제수행기간 2018.11.20 ~ 2018.12.23
+
+
+# 9. [JAVA](https://github.com/yh08037/JAVA)
 ## 요약문
 2018년 2학기 학부 강의를 통해 C언어를 배우고, 2019년 1학기의 자바프로그래밍 강의에 대비하기 위해 수강한 정보전산원 IT교육센터 강의의 내용을 정리한 레포지터리입니다. 
 
@@ -79,14 +91,15 @@ Github의 markdown이 latex 문법을 지원하지 않는 관계로, README.md�
 - 실전 JAVA 프로그래밍 / 2017.1.14 ~ 2019.2.1 / 신현호 강사님
 
 
-# 9. [JavaProgramming](https://github.com/yh08037/JavaProgramming)
+# 10. [JavaProgramming](https://github.com/yh08037/JavaProgramming)
 ## 요약문
 장길진 교수님의 자바프로그래밍 강의를 들으면서 작성한 실습과 과제의 코드를 정리한 레포지터리입니다.
 
 ## 교과목형
 - COMP217 자바프로그래밍 / 2019년 1학기 / 장길진 교수님
 
-# 10. [HelloKotlin](https://github.com/yh08037/HelloKotlin)
+
+# 11. [HelloKotlin](https://github.com/yh08037/HelloKotlin)
 ## 요약문
 2018년 겨울부터 2019년 1학기까지 몇 달간 Java를 공부하고 안드로이드와 관련해 공부를 하면서, Kotlin이 안드로이드의 공식 언어로 지정된 것을 알게 되었습니다.
 Kotiln은 JVM 언어로, Java의 라이브러리와 함수 등을 그대로 사용할 수 있습니다.
